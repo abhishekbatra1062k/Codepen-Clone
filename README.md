@@ -10,6 +10,6 @@
 
 [Click Here](https://abatra-codepen-clone.netlify.app/)
 
-## UI ![Screenshot](./public\images\Screenshot.JPG)
+## UI ![Screenshot](./public/images/Screenshot.JPG)
 
 ### Built By Abhishek Batra
